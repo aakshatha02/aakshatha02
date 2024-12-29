@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-### Connect with me:
-
 <a href="https://www.linkedin.com/in/akshatha-aa7410132/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  <img src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="LinkedIn" style="margin-right: 10px;"/>
 </a>
 <a href="https://medium.com/@akshathakulal" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/null/medium-new.png" alt="Medium"/>
 </a>
+
 
 
