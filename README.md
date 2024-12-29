@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatha-aa7410132/)
-[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshathakulal)
+<a href="https://www.linkedin.com/in/akshatha-aa7410132/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+</a>
+<a href="https://medium.com/@akshathakulal" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-%23000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="40">
+</a>
 
