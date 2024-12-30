@@ -32,6 +32,15 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/ios-filled/50/808080/medium-new.png" alt="Medium" style="height: 40px; width: 40px;"/>
 </a>
 
+### Connect with meddd:
+
+<a href="https://www.linkedin.com/in/akshatha-aa7410132/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="LinkedIn" style="height: 40px; width: 40px; margin-right: 10px;"/>
+</a>
+<a href="https://medium.com/@akshathakulal" target="_blank" style="text-decoration: none;">
+  <img src="https://img.icons8.com/ios-filled/50/808080/medium-new.png" alt="Medium" style="height: 40px; width: 40px;"/>
+</a>
+
 
 
 
