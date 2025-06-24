@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🛠️ I specialize in building scalable data pipelines, crafting optimized databases, creating cloud-based solutions, analysing large datasets and delivering actionable insights to drive business growth.
+- 🛠️ I specialize in building and optimising scalable data pipelines, analysing large datasets and delivering actionable insights to drive business growth.
   
 - 💡 Currently exploring new tools, frameworks, and techniques to unlock the power of data.
   
