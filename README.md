@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 💡 Currently exploring new tools, frameworks, and techniques to unlock the power of data.
   
 - ✍️ I love sharing knowledge and write about data engineering topics on [Medium](https://medium.com/@akshathakulal).
+  
+- 💾 I also share useful SQL queries and snippets on [GitHub Gist](https://gist.github.com/aakshatha02).
 
 ### Connect with me:
 
