@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🛠️ I specialize in building and optimising scalable data pipelines, analysing large datasets and delivering actionable insights to drive business growth.
   
-- 💡 Currently exploring moder data tools, frameworks, and techniques to unlock the power of data.
+- 💡 Currently exploring moder data tools, frameworks, and Gen AI (RAG) to unlock the power of data.
   
 - ✍️ I love sharing knowledge and write about data engineering topics on [Medium](https://medium.com/@akshathakulal).
   
