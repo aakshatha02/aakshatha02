@@ -25,10 +25,16 @@ Here are some ideas to get you started:
   
 - 💾 I also share useful SQL queries and snippets on [GitHub Gist](https://gist.github.com/aakshatha02).
 
-### Connect with me:
+---
+
+### 🔗 Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/akshatha-aa7410132/) • [Medium](https://medium.com/@akshathakulal)
 
+---
+
+### 📂 My Portfolio  
+[Portfolio](https://sites.google.com/view/akshathakulal/)
 
 
 
