@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🛠️ I specialize in building and optimising scalable data pipelines, analysing large datasets and delivering actionable insights to drive business growth.
+- 🛠️ I love building and optimising scalable data pipelines, analysing large datasets and delivering actionable insights to drive business growth.
   
-- 💡 Currently exploring moder data tools, frameworks, and Gen AI (RAG) to unlock the power of data.
+- 💡 Currently I am looking for a full time job opportunities, learning German, exploring modern data tools.
   
 - ✍️ I love sharing knowledge and write about data engineering topics on [Medium](https://medium.com/@akshathakulal).
   
