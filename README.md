@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🛠️ I love building and optimising scalable data pipelines, analysing large datasets and delivering actionable insights to drive business growth.
+- 🛠️ I love building and optimising scalable data pipelines, analysing large datasets and buidling dasboards to visualise the business insights.
   
 - 💡 Currently I am looking for a full time job opportunities, learning German, exploring modern data tools.
   
