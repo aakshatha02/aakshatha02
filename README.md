@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Akshatha
 
-### 🚀 Data Engineer | Data Analyst | Lifelong Learner
+### 🚀 Data Engineer | Data Analyst 
 
 <!--
 **aakshatha02/aakshatha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
